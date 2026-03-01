@@ -3,7 +3,7 @@ using static Delegates;
 
 class Delegates
 {
-    // 1. Delegate definition
+    //  Delegate definition
     public delegate int FreizeitCallback(string text, int number);
     public delegate void MultiCastDelegates();
    
